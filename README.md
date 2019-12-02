@@ -4,6 +4,8 @@ I'm Amar, from India. I'm passionate about Data Analysis and I aspire to become 
 
 In this project, I have analysed local temperature of New Delhi city, in accordance with the global temperature data and compared. I had been provided with a database on Udacity portal from which, I have to extracte, manipulate and visualize the data to compare treds over a certain period of time.
 
+I have used moving average window to be 150 after few iteration with different sizes.
+
 You may check the pyhton notebook in the repo for code.
 
 As you can see below, for global data, the temperature has been rising slowly and in 1880's, we can see a steady increase which can be attributed to industrialization, thereby increase in pollution.
